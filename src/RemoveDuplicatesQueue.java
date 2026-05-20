@@ -10,7 +10,6 @@ class Queue {
         queue = new int[maxSize];
         front = 0;
         rear = -1;
-        dfd;
         count = 0;
     }
 
